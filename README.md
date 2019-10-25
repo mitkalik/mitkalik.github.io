@@ -1,2 +1,2 @@
-# mitkalik.github.io
+# Мирослав Миткалик
 site
