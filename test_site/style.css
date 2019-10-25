@@ -1,0 +1,140 @@
+h2{
+	font-size: 35px;
+	color: white;
+	background-color: #24292e;
+	text-align-last: center;
+	padding: 3px;
+	margin: 0px;
+	box-shadow: 0 4px 8px rgba(0,0,0,0.28);
+	
+}
+
+a#head {
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	
+	
+}
+	
+body
+{
+	
+	background-color: #fff; 
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+    
+	background-size: 100%;
+	font-size: 20px;
+	margin: 0px;
+
+}
+
+.mesage {
+	display: inline-block;
+    padding: 10px 10px;
+    font-size: 30px;
+    color: black;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: yellow;
+    border: 3px solid black;
+    border-radius: 3px;
+    transition: .2s;
+}
+
+.operation {
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 4px;
+	background-color: grey;
+	font-size: 16px;
+	color: white;
+	vertical-align: middle;
+	margin: 4px;
+	padding: 0px;
+	text-align: center; 
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	position: relative;
+
+}
+
+table {
+	display: table;
+	background-color: #f0f0f0;
+	text-align: center;
+	font-size: 22px;
+	table-layout:auto;
+	border: 1px solid #000;
+	border-radius: 2px;
+	padding: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
+
+tr {
+	vertical-align: inherit;
+    border-color: inherit;
+}
+
+td  {
+     border: 1px solid black;
+     padding: 10px;
+}
+
+#upload  {
+	font-size: 30px;
+	padding: 50px;
+	margin-top: 50px;
+	
+}
+
+#b1 {
+    display: inline-block;
+    padding: 24px 36px;
+    font-size: 21px;
+    color: #fff;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+   
+    background-color: #1074e7;
+    border: 2px solid #1074e7;
+    border-radius: 3px;
+    transition: .2s;
+    text-indent: -9999px !important; 
+ 
+}
+
+#b1:hover {
+	background-color: #0f66cc;
+    border-color: #0f66cc;
+}
+	
+
+#b2{
+	display: inline-block;
+	padding: 26px 48px;
+
+    font-size: 22px;
+    color: #fff;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+	background-color: #2ebc4f;
+	border: 2px solid #2ebc4f;
+	border-radius: 3px;
+	transition: .2s;
+	
+}
+
+#b2:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
